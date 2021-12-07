@@ -15,4 +15,4 @@ jobs:
       with:
         python-version: 3.9.2
     - name: Running Bot
-      run: python3 RDP/view.py
+      run: python3 view.py
