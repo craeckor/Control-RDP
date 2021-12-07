@@ -1,3 +1,6 @@
+import os
+os.system("pip install requests")
+
 import requests
 
 ngurl=requests.get("http://localhost:4040/api/tunnels").text
