@@ -33,7 +33,14 @@ This <a href="https://github.com/cracker911181/cracker-RDP">RDP</a> Only Created
 	>---------------------<
 </pre>
 <br>
+<br>
 
+>[+] Repository Status:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cracker911181&hide=contribs,prs)
+
+
+<br>
 >[+] Contact Info:
 
 <pre>	<a href="https://facebook.com/cracker911181">Facebook</a>
