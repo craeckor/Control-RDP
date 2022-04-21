@@ -19,7 +19,7 @@ This <a href="https://github.com/cracker911181/cracker-RDP">RDP</a> Only Created
 	>-----------------------<<br>
 10: Go To <a href="https://ngrok.com">Ngrok</a>
 11: Click On The <a href="https://dashboard.ngrok.com/endpoints">Endpoint</a> Option
-11: And Click On The <a href="https://dashboard.ngrok.com/endpoints/status">Status</a> Option
+11: And Click On The <a href="https://dashboard.ngrok.com/cloud-edge/endpoints">Status</a> Option
 12: Copy The URL without "tcp://"
 13: The Copied Link Like: 8.tcp.ngrok.io:15003
 14: Go To Your RDP Using Software
