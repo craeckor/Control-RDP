@@ -19,8 +19,8 @@ jobs:
       run: Start-Process .\newt.exe -ArgumentList "--id $Env:NEWT_ID --secret $Env:NEWT_SECRET --endpoint $Env:NEWT_ENDPOINT --accept-clients"
       env:
         NEWT_ENDPOINT: ${{ secrets.NEWT_ENDPOINT }}
-      - NEWT_ID: ${{ secrets.NEWT_ID }}
-      - NEWT_SECRET: ${{ secrets.NEWT_SECRET }}
+        NEWT_ID: ${{ secrets.NEWT_ID }}
+        EWT_SECRET: ${{ secrets.NEWT_SECRET }}
     - name: sleep1
       run: sleep 1000
     - run: sleep 1000
